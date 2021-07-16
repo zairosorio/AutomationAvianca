@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features/flight_search.feature",
         snippets = SnippetType.CAMELCASE,
         glue = "",
-        tags = "@One"
+        tags = "@One or @Two"
 )
 
 public class FlightSearchRunner {

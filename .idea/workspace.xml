@@ -270,15 +270,9 @@
       <change afterPath="$PROJECT_DIR$/../../Pruebas/Proyect/.idea/Proyect.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Pruebas/ProyectoShowCairTesting/ProyectoShowCairTesting.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Pruebas/PruebaSelenium/PruebaSelenium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/dataAvianca.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/resources/dataAvianca.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/logIda.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/logIda.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avianca/automation/models/DataInjection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avianca/automation/models/DataInjection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avianca/automation/pageobjets/RoundTripPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avianca/automation/pageobjets/RoundTripPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/avianca/automation/utils/DataExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avianca/automation/utils/DataExcel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/avianca/automationtest/runners/FlightSearchRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/avianca/automationtest/runners/FlightSearchRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/flight_search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/flight_search.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

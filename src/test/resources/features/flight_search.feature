@@ -14,7 +14,6 @@ Feature: flight search
     And   Search
     Then  show selected flight
 
-
   @Two
   Scenario: successful search round trip
     Given  user is on the page
