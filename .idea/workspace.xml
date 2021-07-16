@@ -243,12 +243,6 @@
       <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomationsAvianca..iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AviancaAutomation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/logIdaR.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avianca/automation/pageobjets/RoundTripPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/avianca/automation/steps/RoundTripStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/avianca/automationtest/stepsdefinititions/RoundTripStepsDefinitions.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ChowCairTesting/SQA/.idea/modules/SQA.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ChowCairTesting/SQA/chromedriver.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ChowCairTesting/SQA/src/test/java/Metodos.java" afterDir="false" />
@@ -276,6 +270,15 @@
       <change afterPath="$PROJECT_DIR$/../../Pruebas/Proyect/.idea/Proyect.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Pruebas/ProyectoShowCairTesting/ProyectoShowCairTesting.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Pruebas/PruebaSelenium/PruebaSelenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/dataAvianca.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/resources/dataAvianca.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/logIda.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/logIda.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avianca/automation/models/DataInjection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avianca/automation/models/DataInjection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avianca/automation/pageobjets/RoundTripPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avianca/automation/pageobjets/RoundTripPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avianca/automation/utils/DataExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avianca/automation/utils/DataExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/avianca/automationtest/runners/FlightSearchRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/avianca/automationtest/runners/FlightSearchRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,7 +293,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>

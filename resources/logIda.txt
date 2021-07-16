@@ -1,5 +1,5 @@
 Nombre Apellido:Juan Perez
 Correo: prueba@gmail.com
-Numero de VueloAV8427
-Fecha y Hora De Salida: Sábado, 25 Septiembre 2021,06:54 am
-Valor Total: Valor Total: $145.660 COP
+Numero de Vuelo: AV8427
+Fecha y Hora De Salida: Jueves, 23 Septiembre 2021,06:54 am
+Valor Total: $137.260 COP

@@ -202,6 +202,7 @@ public class RoundTripPage extends PageObject {
     }
 
     public void fileLog() {
+
         SpecialMetods.configProperties();
 
         FileWriter file;
