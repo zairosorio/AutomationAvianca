@@ -271,8 +271,10 @@
       <change afterPath="$PROJECT_DIR$/../../Pruebas/ProyectoShowCairTesting/ProyectoShowCairTesting.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Pruebas/PruebaSelenium/PruebaSelenium.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/avianca/automationtest/runners/FlightSearchRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/avianca/automationtest/runners/FlightSearchRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/flight_search.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/flight_search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/dataAvianca.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/resources/dataAvianca.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/logIdaR.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/logIdaR.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avianca/automation/pageobjets/BuyOneWayFlightPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avianca/automation/pageobjets/BuyOneWayFlightPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/avianca/automation/pageobjets/RoundTripPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/avianca/automation/pageobjets/RoundTripPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -309,7 +311,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../EjerciciosSemilleroSQA-master/Screenplay_DemoQa_Form" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">

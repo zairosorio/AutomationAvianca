@@ -91,7 +91,7 @@ public class RoundTripPage extends PageObject {
 
     public void origen() throws InterruptedException, IOException {
         getDriver().findElement(selectOriginInput).click();
-        getDriver().findElement(selectOriginInput).sendKeys(DataExcel.getCellValue(dataInjection.getFilepath(), dataInjection.getSheetName(), 1, 0));
+        getDriver().findElement(selectOriginInput).sendKeys(DataExcel.getCellValue(dataInjection.getFilepath(), dataInjection.getSheetName(), 2, 0));
         getDriver().findElement(selectOriginInput).sendKeys(Keys.ARROW_DOWN);
         getDriver().findElement(selectOriginInput).sendKeys(Keys.ENTER);
     }
@@ -99,7 +99,7 @@ public class RoundTripPage extends PageObject {
     public void destino() throws InterruptedException, IOException {
         getDriver().findElement(selectDestinationInput).click();
         Times.waitFor(3000);
-        getDriver().findElement(selectDestinationInput).sendKeys(DataExcel.getCellValue(dataInjection.getFilepath(), dataInjection.getSheetName(), 1, 1));
+        getDriver().findElement(selectDestinationInput).sendKeys(DataExcel.getCellValue(dataInjection.getFilepath(), dataInjection.getSheetName(), 2, 1));
         getDriver().findElement(selectDestinationInput).sendKeys(Keys.ARROW_DOWN);
         getDriver().findElement(selectDestinationInput).sendKeys(Keys.ENTER);
         Times.waitFor(3000);

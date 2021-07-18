@@ -32,8 +32,7 @@ public class BuyOneWayFlightPage extends PageObject {
     public By selectOriginInput = By.xpath("//div[@class='form-group new-animate  new-focus']//input[@aria-required  and not(@aria-invalid)]");
     public By selectDestinationInput = By.xpath("(//div[@class='form-group new-animate ' or @class='form-group new-animate  new-focus']//input[@type='text'])[last()]");
     public By calendarClickIda = By.xpath("//div/input[@class='form-control solo-ida x-mvvm' or @class='form-control solo-ida x-mvvm valid']");
-    public By selectDayIda = By.xpath("//div[contains(@id,'ida_regreso_1')]//div[@data-day='" + dataInjection.getDateIda() + "']");
-    public By calendarClickRegreso = By.xpath("//input[@class='fechas-integradas form-control fecha-integrada-vuelta x-mvvm error']");
+    public By selectDayIda = By.xpath("//div[contains(@id,'ida_regreso_1')]//div[@data-day='" + dataInjection.getDateIda()+"']");
     public By goButton = By.xpath("(//button[@class='btn primary btn-codepromo pull-btn rojo'])[last()]");
     public By selectFlightClick = By.xpath("(//button[@class='select-cabin-button'])[3]");
     public By selectPriceClick = By.xpath("(//button[@class='ff-price-container'])[3]");

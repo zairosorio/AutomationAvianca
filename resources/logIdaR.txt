@@ -1,5 +1,5 @@
 Nombres Y apellidos: Felipe Julio
 Correo: prueba@gmail.com
-AV8427
-Fecha Hora Salida: Jueves, 23 Septiembre 2021,06:54 am
-Valor Total: $274.920 COP
+AV9793
+Fecha Hora Salida: Jueves, 23 Septiembre 2021,10:10 am
+Valor Total: $333.300 COP
