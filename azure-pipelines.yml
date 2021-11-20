@@ -13,22 +13,23 @@ steps:
 - task: Maven@3
   inputs:
     mavenPomFile: 'pom.xml'
-    mavenOptions: '-Xmx3072m'
+    goals: 'verify'
+    options: '-Dcucumber.options="--tags @One"'
+    publishJUnitResults: false
     javaHomeOption: 'JDKVersion'
-    jdkVersionOption: '1.8'
-    jdkArchitectureOption: 'x64'
-    publishJUnitResults: true
-    testResultsFiles: '**/surefire-reports/TEST-*.xml'
-    goals: 'package'
+    mavenVersionOption: 'Default'
+    mavenAuthenticateFeed: false
+    effectivePomSkip: false
+    sonarQubeRunAnalysis: false
 - task: CopyFiles@2
   inputs:
-    SourceFolder: '$(Build.SourcesDirectory)'
-    Contents: '**/*.jar'
-    TargetFolder: '$(Build.ArtifactStagingDirectory)'
-    CleanTargetFolder: true
-    preserveTimestamp: true
+    SourceFolder: 'target'
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-    ArtifactName: 'drop'
+    ArtifactName: 'zairosorio.AutomationAvianca'
     publishLocation: 'Container'
+    Contents: '**/*'
+    TargetFolder: '$(Build.ArtifactStagingDirectory)'
+    CleanTargetFolder: true
+    preserveTimestamp: true
